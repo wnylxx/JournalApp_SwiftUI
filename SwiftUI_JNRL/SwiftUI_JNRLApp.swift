@@ -13,5 +13,6 @@ struct SwiftUI_JNRLApp: App {
         WindowGroup {
             ContentView()
         }
+        .modelContainer(for: JournalEntry.self)
     }
 }
