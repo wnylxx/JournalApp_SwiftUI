@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		185AEF2E2C0CA09E0071F247 /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185AEF2D2C0CA09E0071F247 /* RatingView.swift */; };
+		185AEF302C0CA0BF0071F247 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185AEF2F2C0CA0BF0071F247 /* LocationManager.swift */; };
 		18A3EEF92C0762EA00D8591F /* SwiftUI_JNRLApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A3EEF82C0762EA00D8591F /* SwiftUI_JNRLApp.swift */; };
 		18A3EEFB2C0762EA00D8591F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A3EEFA2C0762EA00D8591F /* ContentView.swift */; };
 		18A3EEFD2C0762EC00D8591F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18A3EEFC2C0762EC00D8591F /* Assets.xcassets */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		185AEF2D2C0CA09E0071F247 /* RatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
+		185AEF2F2C0CA0BF0071F247 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 		18A3EEF52C0762EA00D8591F /* SwiftUI_JNRL.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_JNRL.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18A3EEF82C0762EA00D8591F /* SwiftUI_JNRLApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_JNRLApp.swift; sourceTree = "<group>"; };
 		18A3EEFA2C0762EA00D8591F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -67,6 +71,8 @@
 				18A3EF0C2C07685500D8591F /* AddJournalEntryView.swift */,
 				18A3EF082C07677800D8591F /* MapView.swift */,
 				18A3EF0E2C0774B200D8591F /* JournalEntry.swift */,
+				185AEF2D2C0CA09E0071F247 /* RatingView.swift */,
+				185AEF2F2C0CA0BF0071F247 /* LocationManager.swift */,
 				18A3EEFC2C0762EC00D8591F /* Assets.xcassets */,
 				18A3EEFE2C0762EC00D8591F /* Preview Content */,
 				18A3EF0A2C07681200D8591F /* justTest.swift */,
@@ -155,10 +161,12 @@
 				18A3EF0B2C07681200D8591F /* justTest.swift in Sources */,
 				18A3EF072C07674700D8591F /* JournalListView.swift in Sources */,
 				18A3EF092C07677800D8591F /* MapView.swift in Sources */,
+				185AEF2E2C0CA09E0071F247 /* RatingView.swift in Sources */,
 				18A3EEFB2C0762EA00D8591F /* ContentView.swift in Sources */,
 				18A3EF0D2C07685500D8591F /* AddJournalEntryView.swift in Sources */,
 				18A3EF0F2C0774B200D8591F /* JournalEntry.swift in Sources */,
 				18A3EEF92C0762EA00D8591F /* SwiftUI_JNRLApp.swift in Sources */,
+				185AEF302C0CA0BF0071F247 /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
