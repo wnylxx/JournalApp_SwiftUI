@@ -81,10 +81,10 @@
 				185AEF2F2C0CA0BF0071F247 /* LocationManager.swift */,
 				185AEF312C0CA3F50071F247 /* ImagePicker.swift */,
 				185AEF352C0CA93A0071F247 /* JournalCell.swift */,
+				185AEF372C0CAA1E0071F247 /* JournalEntryDetailView.swift */,
 				18A3EEFC2C0762EC00D8591F /* Assets.xcassets */,
 				18A3EEFE2C0762EC00D8591F /* Preview Content */,
 				18A3EF0A2C07681200D8591F /* justTest.swift */,
-				185AEF372C0CAA1E0071F247 /* JournalEntryDetailView.swift */,
 			);
 			path = SwiftUI_JNRL;
 			sourceTree = "<group>";
